@@ -1,0 +1,47 @@
+.hypprcart{
+text-transform: capitalize !important;
+font-size: 12px !important;
+}
+.hypprcart:hover{
+    background-color: none !important;
+}
+.badge {
+    background-color: rgb(1, 37, 1);
+    border-radius: 10px;
+    margin: 0px 0px 0px -10px;
+    margin-top:-23px;
+    color: white;
+    display: inline-block;
+    font-size: 7px;
+    line-height: 1;
+    padding: 2px 5px;
+    text-align: center;
+    vertical-align: middle;
+    white-space: nowrap;
+}
+.hypprcartimg{
+    width: 80px;
+    height: auto;
+    background-color: #fff;
+    border: 1px solid #dbd8d8;
+    padding:5px 0px;
+    margin:1px 20px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+.hypprtbutton{
+    margin: 30px 63px 30px 63px;
+}
+.hypprmargin{
+    display: inline-block;
+    margin: 0 30px;
+}
+.delete-btn{
+    position: absolute;
+    right: 0;
+    width: 100px;
+    height: 17px;
+    background: url("https://designmodo.com/demo/shopping-cart/delete-icn.svg") no-repeat center;
+    
+  }
+  

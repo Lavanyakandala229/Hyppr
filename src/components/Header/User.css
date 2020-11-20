@@ -1,0 +1,22 @@
+.hypprbutton{
+    background: none !important;
+    height: 28px;
+    color: #000 !important;
+    border: green 1px solid !important;
+    text-transform: capitalize !important;
+    font-size: 12px !important;
+    }
+.margin1{
+    padding-left: 10px;
+    color:#000 !important;
+    font-family: sans-serif;
+  text-align: center;
+  
+}
+.greenbutton{
+    width:50%;
+    margin: 0 auto;
+    background-color: green !important;
+    text-align: center !important;
+    padding: 10px 150px 10px 150px !important;
+}

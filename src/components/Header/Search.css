@@ -1,0 +1,9 @@
+.MuiPaper-elevation1{
+    box-shadow: none !important;
+    border: 1px solid #000;
+    border-radius: 5px !important;
+    line-height: 4px;
+}
+.search{
+    font-size: 12px;
+}

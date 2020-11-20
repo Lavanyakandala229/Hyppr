@@ -1,0 +1,17 @@
+.hypprwishlist{
+    font-size:12px !important;
+    text-transform: capitalize !important;
+    color: #000 !important;
+}
+.hypprbox{
+    border-radius: 1px !important;
+    border:none !important;
+    
+    text-align:center !important;
+    
+}
+.hypprboxtext{
+    
+    font-size:12px !important;
+
+}

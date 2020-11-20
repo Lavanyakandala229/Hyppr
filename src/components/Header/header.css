@@ -1,0 +1,50 @@
+.one-fourth{
+    
+    margin-top: 10px;
+}
+.MuiAppBar-colorPrimary{
+    height:60px;
+    background-color:#fff !important;
+}
+.MuiSvgIcon-root{
+    fill: green !important;
+
+}
+.one-fourthimg{
+margin-top: 10px;   
+width: 80px !important;
+height: auto !important;
+    
+}
+.hyppricon{
+    
+    color: green !important;
+    margin: 0px 20px 0px 20px  !important;
+}
+
+.MuiButton-outlinedPrimary{
+    color: green !important;
+    border: none !important;
+}
+.MuiButton-containedPrimary{
+    padding: 10px 150px 10px 150px !important;
+   background-color:#7ab02a !important;
+}
+
+.center{
+    color: green !important;
+    border-bottom: 1px solid green;
+    text-align: center;
+    margin-top: 20px !important;
+    margin-bottom: 20px !important;
+}
+.center1{
+    text-align: center;
+}
+.MuiButton-label{
+    margin-left: 0px;
+}
+.MuiButton-containedSecondary{
+
+    background-color: green !important;
+}
